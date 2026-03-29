@@ -2,7 +2,7 @@
   "name": "DesignPhotographyPortfolio",
   "type": "module",
   "version": "0.0.1",
-	"description": "About Design/Photography Portfolio is a free Astro template for showcasing Design/Photography artists.",
+  "description": "About Design/Photography Portfolio is a free Astro template for showcasing Design/Photography artists.",
   "scripts": {
     "dev": "astro dev",
     "dev:debug": "node --inspect-brk node_modules/.bin/astro dev",
@@ -13,11 +13,11 @@
     "auto-deploy-website": "npm run build && python scripts/auto-deploy-website.py"
   },
   "keywords": [
-		"astro",
-		"astro theme",
-		"react",
-		"heroui",
-		"tailwindcss"
+    "astro",
+    "astro theme",
+    "react",
+    "heroui",
+    "tailwindcss"
   ],
   "author": {
     "name": "草木一秋",
@@ -44,7 +44,7 @@
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "alpinejs": "^3.14.9",
-    "astro": "^5.9.4",
+    "astro": "^5.15.8",
     "astro-i18n": "^2.2.4",
     "astro-icon": "^1.1.5",
     "astro-seo": "^0.8.4",
